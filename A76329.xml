@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the defeat given to a party of the enemies horse neer Cambden. Wherein was taken of the enemies I Colonell, I Lieutenant Colonel. 2 captains, 3 lieutenants, 2 cornets, and colours, 2 colours more, whole bearers fled, 80 horse, 100 prisoners, divers slain,  by Serjeant Major Beer. Also a true relation of some losse at the shege at Newarke. And a sermon preached to certain drunken cavaliers at Priscall, the text being malt. Whereunto is added a declaration of a cashierd souldier.</title>
+            <author>Beere, Serjeant Major.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76329</idno>
+            <idno type="STC">Wing B1690</idno>
+            <idno type="STC">Thomason E38_9</idno>
+            <idno type="STC">ESTC R7757</idno>
+            <idno type="EEBO-CITATION">99873181</idno>
+            <idno type="PROQUEST">99873181</idno>
+            <idno type="VID">155047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155047)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E38[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the defeat given to a party of the enemies horse neer Cambden. Wherein was taken of the enemies I Colonell, I Lieutenant Colonel. 2 captains, 3 lieutenants, 2 cornets, and colours, 2 colours more, whole bearers fled, 80 horse, 100 prisoners, divers slain,  by Serjeant Major Beer. Also a true relation of some losse at the shege at Newarke. And a sermon preached to certain drunken cavaliers at Priscall, the text being malt. Whereunto is added a declaration of a cashierd souldier.</title>
+                  <author>Beere, Serjeant Major.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe, according to order,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "March 20th 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark (Nottinghamshire, England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155047:1" rendition="simple:additions"/>
+            <p>An exact Relation of The defeat given to a party of the ene<g ref="char:EOLhyphen"/>mies horſe neer CAMBDEN.</p>
+            <p>Wherein were taken of the enemies
+<list>
+                  <item>1 Collonell,</item>
+                  <item>1 Lieutenant Colonel.</item>
+                  <item>2 Captains,</item>
+                  <item>3 Lieutenants,</item>
+                  <item>2 Cornets, and colours,</item>
+                  <item>2 Colours more, whole bearers fled,</item>
+                  <item>80 Horſe,</item>
+                  <item>100 Priſoners,</item>
+                  <item>Divers ſlain,</item>
+               </list>
+            </p>
+            <p>By Serjeant Major BEERE.</p>
+            <p>Alſo a true Relation of ſome loſſe at the ſhege at Newarke.</p>
+            <p>And a Sermon preached to certain drunken Cavaliers at <hi>Priſcall,</hi> the Text being <hi>MALT.</hi>
+            </p>
+            <p>Whereunto is added a Declaration of a Caſhierd Souldier.</p>
+            <p>Printed for <hi>Andrew Coe,</hi> according to Order, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155047:2"/>
+            <pb facs="tcp:155047:2"/>
+            <head>NEVVARKE, March, 18. 1643.</head>
+            <p>VVE heare of a ſtrange accident which chan<g ref="char:EOLhyphen"/>ced at Nuwark, Which however it hath be<g ref="char:EOLhyphen"/>faln us, I thought good to acquaint you with, leſt the ſame paſſing through malignant hands, ſhould encreaſe above what it is, a thing to too common with that party.</p>
+            <p>Three Companies of our men lying under the wals of Nuwarke, whether the Enemie had any notice, or only ſurmiſed what after proved true; or whether it fell out by accident, I cannot tell; but it ſeems the enemy iſſued out of the Town, and our men which were placed on that ſide of the Town where the Enemy brak forth, had put out their matches; ſo that whereas they had good Arms, Musket, Sword, and every thing compleat: nei<g ref="char:EOLhyphen"/>ther was their any want of powder, yet the enemy came upon them juſt at a pinch, when their matches were all out, ſo that they could not doe any execution, ſo that the enemy ſuppreſſed three Colours, and two hundred men, ſome of them they put to the ſword, others
+<pb facs="tcp:155047:3"/>they uſe very cruelly; but the eſt will be the more care<g ref="char:EOLhyphen"/>full. And how ever the Lord is pleaſed to let us loſe ſome times; (for no ſouldier can ex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect a continuall conque<g ref="char:EOLhyphen"/>ring in Military actions) yet the Lord appeares in abun<g ref="char:EOLhyphen"/>dance of good to us: We hav<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of late had many victo<g ref="char:EOLhyphen"/>ries, and however the Enemy may rejoice and take cou<g ref="char:EOLhyphen"/>rage at this, and make a great matter of it, and perhap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> advance it to a great height, yet let them know that th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time will come wherein thoſe miſled ſoules they hav<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> traduced will curſe thoſe Papiſts, Prelats, Prieſts, Friers and the reſt that have miſled them, and therefore we muſt wait Gods time, whoſe deliverance is moſt glo<g ref="char:EOLhyphen"/>rious in his own time.</p>
+            <p>Neither hath the Enemy much cauſe to brag, for the ſiege continues ſtill, and they are as much ſtraightned as they were before, and as far from hopes of relief.</p>
+            <p>Beſides wee have this day newes of as conſiderable a victory obtained by Serjeant Major <hi>Beere,</hi> neer <hi>Cambden</hi> in Gloceſterſhire, in the edge of Warwickſhire.</p>
+            <p>Serjeant Major <hi>Beer,</hi> ſeeing what danger he muſt op<g ref="char:EOLhyphen"/>poſe, the Ammunition deſigned for Gloceſter by reaſon of ſo ſtrong a partie of the Enemies in the way, did carefully retreat with it to Warwick back again, but not to lie ſtill when he had done. The valiant Major would firſt venture himſelf for the publick: before he ventured the publick Ammunition, hee drew out a partie of the forces deſigned for the Convoy, and fell upon the ene<g ref="char:EOLhyphen"/>mies Quatters neer Cambden, the enemy in ſhort time gave ground, our forces purſued, till at laſt the Enemie
+<pb facs="tcp:155047:3"/>fled: divers of them throwing away their Armes for haſte.</p>
+            <p>Serjeant Major <hi>Beer</hi> tooke from the enemie
+<list>
+                  <item>1 Collonell,</item>
+                  <item>1 Lieutenant Collonel.</item>
+                  <item>Captains,</item>
+                  <item>3 Lieuteuants,</item>
+                  <item>2 Cornets with their Colours,</item>
+                  <item>2 Colours beſides, the bearers being fled,</item>
+                  <item>80 Horſe,</item>
+                  <item>100 Priſoners,</item>
+                  <item>Beſides divers that were ſlaine,</item>
+               </list>
+            </p>
+            <p>Concerning the ſending of the Ammunition againe towards Gloſter I can ſay nothing, but no doubt God will direct them to it, when it will be beſt for us, to his glory and our good. In the meane time it is better to lie ſafe at Warwick, than to expoſe it to a hazard, I thought good to acquaint you with theſe ſhort paſſa<g ref="char:EOLhyphen"/>ges of news, coming ſo conveniently to my hand.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:155047:4"/>
+            <p>
+               <hi>CErtain Townſmen of</hi> Priſcall, <hi>hearing of a merry meeting at a certain Alehouſe, met in the fields a certain Preacher, who had lately made a hitter Sermon againſt Drunkards, and amongſt o<g ref="char:EOLhyphen"/>ther opprobrious words, he call'd them Malt-worms, wherefore they agreed to take him, and by violence compeld him to preach a Sermon, and his Text ſhould be</hi> MALT, <hi>the Preacher thinking better to yield than to contend with them in their cauſe, began his Sermon as followeth.</hi>
+            </p>
+            <div type="sermon">
+               <head>The Text MALT.</head>
+               <p>THere is no preaching without deviſion, and this text cannot well be devided into words, becauſe it is but one word, nor into many ſyllables, becauſe it is but one ſyllable: It muſt therefore be devided into Let<g ref="char:EOLhyphen"/>ters, and thoſe are found to be foure, that is to ſay MALT: which letters repreſent foure interpretations, which Schoolmen do uſe this M Morall, A Allegori<g ref="char:EOLhyphen"/>call, L Literall, T Typographicall.</p>
+               <p n="1">1 <hi>Part.</hi> M The Morall interpretation is M much, A Aledrinking, L Loſeth, T Time.</p>
+               <p>But firſt to teach you boyſterous men ſome good Manners, at leaſt in procuring your attention to this Ser<g ref="char:EOLhyphen"/>mon: M Maſters A All, L Liſten, T to the Text.</p>
+               <pb facs="tcp:155047:4"/>
+               <p n="2">2 <hi>Part.</hi> A An Allegorie is when one thing is ſpoken and an other thing meant; the thing ſpoken is Malt, the thing meant, is Oile of the Malt, commonly called Ale, which to you Drunkards is ſo precious, that you account it M Mear, A All, L Libertie, T Treaſure.</p>
+               <p n="3">3 <hi>Part.</hi> L The literall ſence is as it hath beene often heretofore ſaid, and it is true according to the Letter, that M much, A Ale, L Little, T Thrift.</p>
+               <p>
+                  <hi>Laſt Part.</hi> T The Typographicall ſence employeth ſome what that now is, or that followeth after, either in this world or in the world to come, the thing that now is, is the effect that the Oile of Malt produceth and worketh in ſome of you: M Murther, A Adultery, in all: L looſe living: And in many T Treaſon. And that which hereafter followeth both in this world and in the world to come: is M Miſery: A Anguiſh: L Lamenta<g ref="char:EOLhyphen"/>tion: T Trouble.</p>
+               <p>
+                  <hi>Concluſion.</hi> I ſhould come to a concluſion, and to per<g ref="char:EOLhyphen"/>ſwade you boiſterous men to amend, ſo that you eſcape the danger whereinto many of you are like to fall: but I have no hope to prevaile, becauſe I plainly ſee, and my Text as plainly tels me, that it is M to A, that is a thou<g ref="char:EOLhyphen"/>ſand pounds to a pot of Ale you will never mend, be<g ref="char:EOLhyphen"/>cauſe all Drunkards are L Lewd, T Thieves.</p>
+               <p>But for the diſcharge of my duty, firſt towards God, and ſecondly, towards you my neighbours, I ſay once again, concluding with my Text, <hi>M.</hi> mend, <hi>A.</hi> all, <hi>L.</hi> leave, <hi>T.</hi> tipling. Otherwiſe, <hi>M.</hi> maſters, <hi>A.</hi> all, <hi>L.</hi> looke for, <hi>T.</hi> terror and torment.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:155047:5"/>
+            <head>A caſhiered Souldier.</head>
+            <lg>
+               <l>HAve I ſpent all my dayes in bloodie wars,</l>
+               <l>Been carbonade'd out, beene ſcorcht with ſcars,</l>
+               <l>Been ſcorcht with fire, beene blowne up like a flie,</l>
+               <l>Like ſulphire mines, into the loftie skie.</l>
+               <l>Have I out brav'd the Cannons boarded death,</l>
+               <l>Been bullet branded, graſpe and gaſpe for breath.</l>
+               <l>Have J marcht over hills? danc'd through the dirt</l>
+               <l>Without either hoſe or ſhoos, or band or ſhirt.</l>
+               <l>When others ſlept, have I watcht night by night?</l>
+               <l>Diſchargd from ſleepe, each minute expecting fight.</l>
+               <l>Have J done this, paſt thouſand dangers moe,</l>
+               <l>Made conqueſt o're a world, a world of woe,</l>
+               <l>And ſhall I now turne begar, run and trot,</l>
+               <l>And creepe and crave to every peaſant ſot,</l>
+               <l>No, by this hand and ſword, J ſcorne it I,</l>
+               <l>He is unfit to live that feares to die:</l>
+               <l>To beg is baſe, as baſe as pick a purſe,</l>
+               <l>To cheat more baſe of all, theft that is worſe,</l>
+               <l>Nor beg, nor cheat will J, J ſcorne the ſame,</l>
+               <l>But while I live maintain a ſouldiers name.</l>
+               <l>Ile purſe it I, the high-way is my hope,</l>
+               <l>His hearts not great that fears a little rope.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſhed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
